@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1053535199411",
+    "firebase_url": "https://covidtest-4608a.firebaseio.com",
+    "project_id": "covidtest-4608a",
+    "storage_bucket": "covidtest-4608a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053535199411:android:c05bbb2a2ddb92cf8350c6",
+        "android_client_info": {
+          "package_name": "com.ianwhittemore.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053535199411-l9dpvnbsi5mehdfsj9qiba87oprkd4s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZpw88N52YkP_x2heTLbgcSFp4bEzNayw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053535199411-l9dpvnbsi5mehdfsj9qiba87oprkd4s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053535199411:android:99844b26f9bc9d678350c6",
+        "android_client_info": {
+          "package_name": "com.ianwhittemore.covidmapreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053535199411-l9dpvnbsi5mehdfsj9qiba87oprkd4s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZpw88N52YkP_x2heTLbgcSFp4bEzNayw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053535199411-l9dpvnbsi5mehdfsj9qiba87oprkd4s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
